@@ -18,7 +18,7 @@ L'objectif est triple :
 
 ## Projet professionnel
 
-Apprentie documentaliste au **Musée d'Orsay** (Centre de documentation Marchesseau), je prépare le concours de **Chargée d'Études Documentaires (CHED)** et m'oriente vers les métiers de la documentation et de l'archivage en contexte patrimonial.
+Apprentie documentaliste au **Musée d'Orsay** (Direction de la Conservation et des Collections, Service de la documentation), je prépare le concours de **Chargée d'Études Documentaires (CHED)** et d' **Assistante territorial de conservation du patrimoine et des bibliothèques** et m'oriente vers les métiers de la documentation en contexte patrimonial. 
 
 👉 [Consulter ma démarche biographique et mon projet professionnel](./01-projet-professionnel/)
 
