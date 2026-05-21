@@ -25,7 +25,7 @@ Apprentie documentaliste au **Musée d'Orsay** (Direction de la Conservation et 
 |---|---|
 | [Projet professionnel](./01-projet-professionnel/) | Démarche biographique et projet professionnel |
 | [CV](./02-cv/) | Curriculum Vitae adapté au secteur documentaire et patrimonial |
-| [Ccompétences](./03-competences/) | Grille des compétences mobilisées (référentiels ADBS, AAF) |
+| [Compétences](./03-competences/) | Grille des compétences mobilisées (référentiels ADBS, AAF) |
 | [Réalisations](./04-realisations/) | Documents authentiques et analyses réflexives |
 | [Référentiels métiers](./05-references-metiers/) | Sources de référence utilisées |
 
