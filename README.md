@@ -1,13 +1,13 @@
 # Portfolio de compétences — Alexia Penza
 
-> *Master 2 Information Management et Digital Média (GIMD)*
+> *Master 2 Gestion de l'Information et Médiation Documentaire (GIMD) Parcours Métiers de la documentation et des bibliothèques*
 > *Université Paul-Valéry Montpellier 3 — 2025-2026*
 
 ---
 
-## 👋 Bienvenue
+## Bienvenue
 
-Ce portfolio numérique a été constitué dans le cadre du Master 2 GIMD (Gestion de l'Information et Médiation Documentaire) à l'Université Paul-Valéry Montpellier 3. Il rassemble une sélection de réalisations académiques et professionnelles, accompagnées d'analyses réflexives, dans les domaines de la **documentation patrimoniale**, de l'**archivage** et de la **gestion de collections muséales**.
+Ce portfolio numérique a été constitué dans le cadre du Master 2 GIMD à l'Université Paul-Valéry Montpellier 3. Il rassemble une sélection de réalisations académiques et professionnelles, accompagnées d'analyses réflexives, dans les domaines de la **documentation patrimoniale**, de l'**archivage** et de la **gestion de collections muséales**.
 
 L'objectif est triple :
 - présenter mon parcours et mon projet professionnel ;
@@ -16,7 +16,7 @@ L'objectif est triple :
 
 ---
 
-## 🎯 Projet professionnel
+## Projet professionnel
 
 Apprentie documentaliste au **Musée d'Orsay** (Centre de documentation Marchesseau), je prépare le concours de **Chargée d'Études Documentaires (CHED)** et m'oriente vers les métiers de la documentation et de l'archivage en contexte patrimonial.
 
@@ -24,19 +24,19 @@ Apprentie documentaliste au **Musée d'Orsay** (Centre de documentation Marchess
 
 ---
 
-## 🗂️ Structure du portfolio
+## Structure du portfolio
 
 | Section | Contenu |
 |---|---|
-| [📌 Projet professionnel](./01-projet-professionnel/) | Démarche biographique et projet professionnel |
-| [📄 CV](./02-cv/) | Curriculum Vitae adapté au secteur documentaire et patrimonial |
-| [🛠️ Compétences](./03-competences/) | Grille des compétences mobilisées (référentiels ADBS, AAF) |
-| [📚 Réalisations](./04-realisations/) | Documents authentiques et analyses réflexives |
-| [📖 Référentiels métiers](./05-references-metiers/) | Sources de référence utilisées |
+| [Projet professionnel](./01-projet-professionnel/) | Démarche biographique et projet professionnel |
+| [CV](./02-cv/) | Curriculum Vitae adapté au secteur documentaire et patrimonial |
+| [Ccompétences](./03-competences/) | Grille des compétences mobilisées (référentiels ADBS, AAF) |
+| [Réalisations](./04-realisations/) | Documents authentiques et analyses réflexives |
+| [Référentiels métiers](./05-references-metiers/) | Sources de référence utilisées |
 
 ---
 
-## 📚 Sommaire des réalisations
+## Sommaire des réalisations
 
 1. [Instrument de recherche — Fonds Guimard (Musée d'Orsay)](./04-realisations/01-instrument-recherche-guimard/)
 2. [Notices bibliographiques Frankenstein — Modèle IFLA-LRM](./04-realisations/02-frankenstein-ifla-lrm/)
@@ -48,10 +48,10 @@ Apprentie documentaliste au **Musée d'Orsay** (Centre de documentation Marchess
 
 ---
 
-## 📬 Contact
+## Contact
 
-- ✉️ **Email** : [a.penza.albarado@hotmail.com](mailto:a.penza.albarado@hotmail.com)
-- 💼 **LinkedIn** : [linkedin.com/in/alexia-penza](https://www.linkedin.com/in/alexia-penza/)
+- **Email** : [a.penza.albarado@hotmail.com](mailto:a.penza.albarado@hotmail.com)
+- **LinkedIn** : [linkedin.com/in/alexia-penza](https://www.linkedin.com/in/alexia-penza/)
 
 ---
 
