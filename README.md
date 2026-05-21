@@ -7,7 +7,7 @@
 
 ## Bienvenue
 
-Ce portfolio numérique a été constitué dans le cadre du Master 2 GIMD à l'Université Paul-Valéry Montpellier 3. Il rassemble une sélection de réalisations académiques et professionnelles, accompagnées d'analyses réflexives, dans les domaines de la **documentation patrimoniale**, de l'**archivage** et de la **gestion de collections muséales**.
+Ce portfolio numérique a été constitué dans le cadre du Master 2 GIMD à l'Université Paul-Valéry Montpellier 3. Il rassemble une sélection de réalisations académiques et professionnelles, accompagnées d'analyses réflexives, dans les domaines de la **documentation**, de l'**archivage** et de la **gestion de fonds documentaire et archivistiques muséales**.
 
 L'objectif est triple :
 - présenter mon parcours et mon projet professionnel ;
