@@ -1,9 +1,4 @@
-# Portfolio de compétences — Alexia Penza
-
-> *Master 2 Gestion de l'Information et Médiation Documentaire (GIMD) Parcours Métiers de la documentation et des bibliothèques*
-> *Université Paul-Valéry Montpellier 3 — 2025-2026*
-
----
+![Bannière du portfolio](./assets/banniere.png)
 
 ## Bienvenue
 
