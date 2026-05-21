@@ -1,4 +1,4 @@
-![Bannière du portfolio](./assets/banniere.png)
+![Bannière du portfolio](/assets/banniere.png)
 
 ## Bienvenue
 
