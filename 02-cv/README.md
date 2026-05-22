@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-<img src="./photo_profil.heic" alt="Photo de profil" width="600" />
+<img src="./photo_profil.heic" alt="Photo de profil" width="200" />
 ## Alexia Penza 
 
 **Documentaliste — Préparation des concours CHED (2026) et ATCP (2027)**
