@@ -144,7 +144,7 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 
 | Réalisation | Traitement documentaire | Conservation / Gestion | Médiation / Valorisation | Outils numériques |
 |---|:---:|:---:|:---:|:---:|
-| Dépouillement d'ouvrage et traitement de boîte documentaire | X | X | | |
+| Dépouillement d'ouvrages et traitement de boîte documentaire | X | X | | |
 | Notices Frankenstein IFLA-LRM | X | | | X |
 | Médiation Archives nationales | | | X | |
 | Note de service archivage | | X | X | |
