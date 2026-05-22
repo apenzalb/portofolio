@@ -20,7 +20,7 @@ J'ai bénéficié d'une **formation aux normes Joconde** dispensée par mes enca
 Les notices d'œuvres que j'ai contribué à enrichir sont aujourd'hui **publiées sur la base Joconde** et consultables librement sur le portail [pop.culture.gouv.fr](https://pop.culture.gouv.fr).
 
 > *Exemples de notices à insérer ici (captures d'écran ou liens directs vers des notices spécifiques)* :
-> - 📸 [Notice 1 — (https://pop.culture.gouv.fr/notice/joconde/M03968020400)]([URL_POP])
+> - 📸 [Notice 1 : Portrait de l'artiste au Prieuré, Maurice Denis — (https://pop.culture.gouv.fr/notice/joconde/M03968020400)]([URL_POP])
 > - 📸 [Notice 2 — à compléter](URL_POP)
 > - 📸 [Notice 3 — à compléter](URL_POP)
 >
