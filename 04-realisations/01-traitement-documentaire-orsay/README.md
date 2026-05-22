@@ -21,7 +21,7 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 <img src="./chantier-01-boites-cochard.jpeg" alt="Vue d'ensemble" width="600" />
 
-*Boîtes Cochard après transvasement des documents (dédoublement des boîtes surremplies), les post-it bleus représentent les monographies.*
+*Boîtes Cochard (boîtes grises) après dédoublement des anciennes boîtes (boîtes marrons) surremplies, les post-it bleus représentent les monographies.*
 
 <img src="./chantier-02-pucage-rfid.jpeg" alt="Vue d'ensemble" width="600" />
 
