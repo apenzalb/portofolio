@@ -12,9 +12,9 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 
 ### 📚 Savoirs
 
-- Modèles bibliographiques (IFLA-LRM, FRBR)
-- Normes de description archivistique (ISAD(G), notions)
-- Principes de classement et de cotation d'un fonds d'archives
+- Modèles bibliographiques (IFLA-LRM)
+- Normes de description archivistique (ISAD(G), quelques notions)
+- Principes de classement et de cotation (Dewey)
 - Cadre légal et réglementaire de l'archivage en France (Code du patrimoine)
 - Vocabulaires contrôlés et langages documentaires
 - Standards d'indexation muséale (Joconde, POP)
@@ -24,8 +24,8 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 - Réaliser le récolement d'un fonds documentaire ou d'une collection
 - Cataloguer et indexer des notices bibliographiques selon les normes
 - Concevoir et rédiger un instrument de recherche
-- Effectuer un dépouillement documentaire pour ouverture de dossiers d'œuvre
-- Trier, classer et reconditionner des archives publiques
+- Effectuer un dépouillement documentaire 
+- Trier, classer et reconditionner 
 - Mettre à jour des notices dans un SIGB
 
 ### 🤝 Savoir-être
