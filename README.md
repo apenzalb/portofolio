@@ -33,7 +33,7 @@ Apprentie documentaliste au **Musée d'Orsay** (Direction de la Conservation et 
 
 ## Sommaire des réalisations
 
-1. [Instrument de recherche — Fonds Guimard (Musée d'Orsay)](./04-realisations/01-instrument-recherche-guimard/)
+1. [Activités documentaire au musée d'Orsay](./04-realisations/01-traitement-documentaire-orsay/)
 2. [Notices bibliographiques Frankenstein — Modèle IFLA-LRM](./04-realisations/02-frankenstein-ifla-lrm/)
 3. [Médiation documentaire aux Archives nationales](./04-realisations/03-mediation-archives-nationales/)
 4. [Note de service — Sensibilisation à l'archivage](./04-realisations/04-note-service-archivage/)
