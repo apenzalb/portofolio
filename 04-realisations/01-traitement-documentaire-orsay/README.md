@@ -22,7 +22,7 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 ![Boîtes Cochard après transvasement]<img src="./chantier-01-boites-cochard.jpeg" alt="Vue d'ensemble" width="600" />
 *Boîtes Cochard après transvasement des documents (dédoublement des boîtes surremplies), les post-it bleus représentent les monographies.*
 
-![Puçage RFID des boîtes]<img src="./chantier-02-pucage-rfid.jpg" alt="Vue d'ensemble" width="600" />
+![Puçage RFID des boîtes]<img src="./chantier-02-pucage-rfid.jpeg" alt="Vue d'ensemble" width="600" />
 *Étape du puçage RFID en vue du transfert vers la réserve BnF.*
 
 ### Dépouillement du catalogue d'accrochage architecture 2014
