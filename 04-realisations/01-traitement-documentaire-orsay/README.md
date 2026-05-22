@@ -18,8 +18,19 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 ## 📂 Documents authentiques
 
-- 📸 Photographies du chantier de reconditionnement du fonds *Peinture étrangère* (dédoublement, transvasement vers boîtes Cochard, puçage RFID) — *[à insérer]*
-- 📸 Photographies du dépouillement en cours du catalogue de l'accrochage architecture 2014 (fonds Levine, œuvres de Villain) — *[à insérer]*
+## 📂 Documents authentiques
+
+### Chantier de reconditionnement — Fonds Peinture étrangère
+
+![Boîtes Cochard après transvasement](./chantier-01-boites-cochard.jpg)
+*Boîtes Cochard après transvasement des documents (dédoublement des boîtes surremplies), les post-it bleus représentent les monographies.*
+
+![Puçage RFID des boîtes](./chantier-02-pucage-rfid.jpg)
+*Étape du puçage RFID en vue du transfert vers la réserve BnF.*
+
+### Dépouillement du catalogue d'accrochage architecture 2014
+
+*[Photographies à insérer si disponibles — ou mention que le dépouillement est en cours et ne peut pas être documenté visuellement à ce jour]*
 
 ---
 
