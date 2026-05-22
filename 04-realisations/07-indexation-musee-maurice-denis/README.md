@@ -24,7 +24,6 @@ Les notices d'œuvres que j'ai contribué à enrichir sont aujourd'hui **publié
 > - 📸 [Notice 2 — à compléter](URL_POP)
 > - 📸 [Notice 3 — à compléter](URL_POP)
 >
-> 🔗 Liste complète des notices traitées disponible dans le fichier [liste-notices-jocodne.md](./liste-notices-joconde.md) *(à constituer)*
 
 ---
 
