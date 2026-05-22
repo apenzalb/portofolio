@@ -22,10 +22,10 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 ### Chantier de reconditionnement — Fonds Peinture étrangère
 
-![Boîtes Cochard après transvasement](./chantier-01-boites-cochard.jpg)
+![Boîtes Cochard après transvasement](./chantier-01-boites-cochard.jpeg)
 *Boîtes Cochard après transvasement des documents (dédoublement des boîtes surremplies), les post-it bleus représentent les monographies.*
 
-![Puçage RFID des boîtes](./chantier-02-pucage-rfid.jpg)
+![Puçage RFID des boîtes](./chantier-02-pucage-rfid.jpeg)
 *Étape du puçage RFID en vue du transfert vers la réserve BnF.*
 
 ### Dépouillement du catalogue d'accrochage architecture 2014
