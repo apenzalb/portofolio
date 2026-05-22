@@ -144,13 +144,13 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 
 | Réalisation | Traitement documentaire | Conservation / Gestion | Médiation / Valorisation | Outils numériques |
 |---|:---:|:---:|:---:|:---:|
-| Instrument de recherche Guimard | ✅ | ✅ | | |
-| Notices Frankenstein IFLA-LRM | ✅ | | | ✅ |
-| Médiation Archives nationales | | | ✅ | |
-| Note de service archivage | | ✅ | ✅ | |
-| Mémoire M2 (déménagement doc Orsay) | | ✅ | | ✅ |
-| Mémoire M1 | | | | ✅ |
-| Indexation Maurice Denis (Joconde) | ✅ | | | ✅ |
+| Instrument de recherche Guimard | X | X | | |
+| Notices Frankenstein IFLA-LRM | X | | | X |
+| Médiation Archives nationales | | | X | |
+| Note de service archivage | | X | X | |
+| Mémoire M2 (déménagement doc Orsay) | | X | | X |
+| Mémoire M1 | | | | X |
+| Indexation Maurice Denis (Joconde) | X | | | X |
 
 ---
 
