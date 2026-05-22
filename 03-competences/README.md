@@ -36,7 +36,7 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 
 ### 🔗 Réalisations associées
 
-- [Instrument de recherche — Fonds Guimard (Musée d'Orsay)](../04-realisations/01-instrument-recherche-guimard/)
+- [Traitement documentaire lié (Musée d'Orsay)](../04-realisations/01-traitement-documentaire-orsay/)
 - [Notices bibliographiques Frankenstein — Modèle IFLA-LRM](../04-realisations/02-frankenstein-ifla-lrm/)
 - [Indexation d'œuvres — Musée départemental Maurice Denis (export Joconde)](../04-realisations/07-indexation-musee-maurice-denis/)
 
