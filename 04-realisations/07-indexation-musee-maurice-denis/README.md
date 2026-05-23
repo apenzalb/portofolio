@@ -61,8 +61,36 @@ Les notices d'œuvres que j'ai contribué à enrichir sont aujourd'hui **publié
 
 Ce travail d'indexation est, dans une carrière de documentaliste muséale, **l'un des gestes les plus fondamentaux du métier**. Il traduit en données structurées et normées la matérialité d'une œuvre, pour que celle-ci soit retrouvable, comparable, étudiée par les chercheurs, et accessible au grand public.
 
-Le fait que les notices que j'ai traitées soient **aujourd'hui publiées sur Joconde / POP** — donc consultables par toute personne dans le monde — constitue une forme particulière de validation : mon travail a passé les contrôles internes du musée et participe désormais à la **diffusion publique du patrimoine national**.
+Le fait que les notices que j'ai traitées soient **aujourd'hui publiées sur Joconde / POP** — donc consultables par toute personne — constitue une forme particulière de validation : mon travail a passé les contrôles internes du musée et participe désormais à la **diffusion publique du patrimoine national**.
 
 ### Ce que ce travail m'a appris
 
-L'indexation iconographique m'a confrontée à un **paradoxe central de la documentation muséale** : il faut décrire une œuvre singulière (un tableau de
+L'indexation iconographique m'a confrontée à un **paradoxe central de la documentation muséale** : il faut décrire une œuvre singulière (un tableau de Vuillard ne ressemble à aucun autre) avec un **vocabulaire normalisé et contrôlé** (utilisé pour tous les musées de France). Cette tension entre **singularité de l'œuvre** et **standardisation de la description** est, je l'ai compris, ce qui rend le travail à la fois exigeant et passionnant.
+
+L'usage du **thesaurus** a été ma principale difficulté. Comment indexer une scène religieuse de Maurice Denis ? Sous quelle entrée placer une nature morte de Bonnard ? Quel terme contrôlé choisir entre plusieurs descripteurs proches ? Ces choix engagent la **trouvabilité future** de l'œuvre dans la base : un mauvais terme, et une œuvre devient invisible pour le chercheur qui la cherche.
+
+J'ai donc dû apprendre à :
+- Consulter systématiquement le thesaurus avant chaque indexation ;
+- Privilégier la **précision** sur la **richesse** (un descripteur juste vaut mieux que dix imprécis) ;
+- Échanger avec mon encadrante en cas de doute, pour aligner ma pratique sur avec la sienne.
+
+### Ce qui s'est bien passé / ce que j'aurais pu faire autrement
+
+La **formation initiale** aux normes Joconde dispensée par mon encadrante m'a donné un cadre solide pour démarrer rapidement. Le travail à l'échelle d'un **corpus de plus de 50 œuvres** m'a permis de gagner en **efficacité et en cohérence** : les premières notices étaient hésitantes, les dernières plus assurées.
+
+Avec le recul, j'aurais pu **tenir un journal de bord** des choix terminologiques difficiles que j'ai faits, pour mieux capitaliser sur mon apprentissage et le partager. C'est une pratique réflexive que je souhaite intégrer à mes activités à venir.
+
+### Mise en perspective
+
+Ce travail s'inscrit dans une chaîne plus large : celle de la **mise à disposition publique du patrimoine muséal français**. Joconde, intégrée à POP, est l'un des **outils majeurs de diffusion scientifique** des collections nationales. Contribuer à cette base, même modestement, c'est participer à un **bien commun** documentaire et culturel.
+
+Cette expérience d'indexation rejoint directement les attendus du concours de la fonction publique : maîtrise des normes, des thesaurus, des SIGM, et conscience de la chaîne de diffusion documentaire dans la fonction publique.
+
+---
+
+## 🔗 Compétences associées
+
+Voir la grille détaillée dans la section [Domaines de compétences](../../03-competences/) :
+- **Traitement documentaire et archivistique** (indexation, catalogage, description)
+- **Outils numériques** (Skinsoft, base Joconde / POP)
+- **Médiation et valorisation** (diffusion publique des collections)
