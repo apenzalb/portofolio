@@ -11,7 +11,7 @@
 ✉️ [a.penza.albarado@outlook.com](mailto:a.penza.albarado@outlook.com)  
 💼 [linkedin.com/in/alexia-penza](https://www.linkedin.com/in/alexia-penza/)
 
-📄 **[Télécharger le CV au format PDF](./CV-Penza-Alexia.pdf)**
+📄 **[Télécharger le CV au format PDF](./CV_penza_alexia.pdf)**
 
 ---
 
