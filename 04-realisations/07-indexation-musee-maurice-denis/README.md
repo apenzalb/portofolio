@@ -21,8 +21,8 @@ Les notices d'œuvres que j'ai contribué à enrichir sont aujourd'hui **publié
 
 > *Exemples de notices indexées sur des oeuvres de Maurice Denis :*
 >  - [Notice 1 : Portrait de l'artiste au Prieuré, Maurice Denis](https://pop.culture.gouv.fr/notice/joconde/M03968020400)                                               <img src="./portrait_denis.png" alt="Capture d'écran notice 1" width="700" />         
-> <img src="./biberon.png" alt="Capture d'écran notice 2" width="700" />                 [Notice 2 : Le Biberon, Maurice Denis](https://pop.culture.gouv.fr/notice/joconde/M03965547013)
-> <img src="./mystere_denis.png" alt="Capture d'écran notice 3" width="700" />           [Notice 3 : Le Mystère catholique, Maurice Denis ](https://pop.culture.gouv.fr/notice/joconde/M03966051654)
+> - [Notice 2 : Le Biberon, Maurice Denis](https://pop.culture.gouv.fr/notice/joconde/M03965547013)        <img src="./biberon.png" alt="Capture d'écran notice 2" width="700" />  
+> - [Notice 3 : Le Mystère catholique, Maurice Denis ](https://pop.culture.gouv.fr/notice/joconde/M03966051654)                                               <img src="./mystere_denis.png" alt="Capture d'écran notice 3" width="700" />           
 >
 
 ---
