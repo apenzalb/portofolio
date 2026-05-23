@@ -7,11 +7,11 @@
 
 ## 📌 Contexte de production
 
-Lors de mon stage au **Musée départemental Maurice Denis** (juin-septembre 2025), j'ai contribué au catalogage et à l'indexation d'une **série d'environ 50 à 100 peintures** des collections du musée, principalement issues du fonds **Nabi** (Maurice Denis, Vuillard, Bonnard, Sérusier…).
+Lors de mon stage au **Musée départemental Maurice Denis** (juin-septembre 2025), j'ai contribué au catalogage et à l'indexation d'une **série d'environ 50 à 100 peintures** des collections du musée, principalement issues du fonds **Nabi**.
 
-Ce travail s'inscrit dans la mission scientifique du service de la documentation : enrichir le **SIGM Skinsoft** (système interne de gestion des collections) en vue de l'**export vers la base nationale Joconde**, désormais intégrée à la **Plateforme Ouverte du Patrimoine (POP)** du ministère de la Culture.
+Ce travail s'inscrit dans la mission scientifique du service de la documentation : enrichir le **système de gestion des collections Skinsoft** en vue de l'**export vers la base nationale Joconde**, désormais intégrée à la **Plateforme Ouverte du Patrimoine (POP)** du ministère de la Culture.
 
-J'ai bénéficié d'une **formation aux normes Joconde** dispensée par mes encadrantes, qui m'a permis de comprendre l'enjeu d'une indexation rigoureuse pour la diffusion publique des collections.
+J'ai bénéficié d'une **formation aux normes Joconde** dispensée par mon encadrante, qui m'a permis de comprendre l'enjeu d'une indexation rigoureuse pour la diffusion publique des collections.
 
 ---
 
@@ -19,7 +19,7 @@ J'ai bénéficié d'une **formation aux normes Joconde** dispensée par mes enca
 
 Les notices d'œuvres que j'ai contribué à enrichir sont aujourd'hui **publiées sur la base Joconde** et consultables librement sur le portail [pop.culture.gouv.fr](https://pop.culture.gouv.fr).
 
-> *Exemples de notices à insérer ici (captures d'écran ou liens directs vers des notices spécifiques)* :
+> *Exemples de notices indexées sur des oeuvres de Maurice Denis :*
 > - <img src="./portrait_denis.png" alt="Capture d'écran notice 1" width="700" /> [Notice 1 : Portrait de l'artiste au Prieuré, Maurice Denis](https://pop.culture.gouv.fr/notice/joconde/M03968020400)
 > - <img src="./biberon.png" alt="Capture d'écran notice 2" width="700" />        [Notice 2 : Le Biberon, Maurice Denis](https://pop.culture.gouv.fr/notice/joconde/M03965547013)
 > - <img src="./mystere_denis.png" alt="Capture d'écran notice 3" width="700" />  [Notice 3 : Le Mystère catholique, Maurice Denis ](https://pop.culture.gouv.fr/notice/joconde/M03966051654)
@@ -32,8 +32,8 @@ Les notices d'œuvres que j'ai contribué à enrichir sont aujourd'hui **publié
 ### Savoirs
 
 - **Normes nationales d'indexation muséale** (référentiel Joconde)
-- **Vocabulaires contrôlés et thesaurus** appliqués au patrimoine muséal (Garnier, Iconclass…)
-- **Chaîne de diffusion documentaire** : du SIGM interne (Skinsoft) à la base nationale ouverte (Joconde / POP)
+- **Vocabulaires contrôlés et thesaurus** appliqués au patrimoine muséal 
+- **Chaîne de diffusion documentaire** : de Skinsoft à la base nationale ouverte (Joconde / POP)
 - **Connaissance des collections nabies** et du contexte artistique de la fin du XIXᵉ siècle
 - **Description matérielle et iconographique** d'une œuvre peinte
 
