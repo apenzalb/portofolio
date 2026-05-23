@@ -21,7 +21,7 @@ Les notices d'œuvres que j'ai contribué à enrichir sont aujourd'hui **publié
 
 > *Exemples de notices à insérer ici (captures d'écran ou liens directs vers des notices spécifiques)* :
 > - <img src="./portrait_denis.png" alt="Capture d'écran notice 1" width="700" /> [Notice 1 : Portrait de l'artiste au Prieuré, Maurice Denis](https://pop.culture.gouv.fr/notice/joconde/M03968020400)
-> - 📸 [Notice 2 — à compléter](https://pop.culture.gouv.fr/notice/joconde/M03965547013)
+> - <img src="./biberon.png" alt="Capture d'écran notice 2" width="700" />        [Notice 2 — à compléter](https://pop.culture.gouv.fr/notice/joconde/M03965547013)
 > - 📸 [Notice 3 — à compléter](URL_POP)
 >
 
