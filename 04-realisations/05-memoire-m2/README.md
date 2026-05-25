@@ -22,7 +22,7 @@ Le document authentique présenté ici correspond à mon devoir rendu pour la ma
 
 ## Document authentique
 
-📄 **[Méthodologie du mémoire — État de l'art et bibliographie commentée](./methodologie_memoire_m2.pdf)** *(à uploader)*
+📄 **[Méthodologie du mémoire — État de l'art et bibliographie commentée](./methodologie_memoire_m2.pdf)** 
 
 Le document comprend :
 - Un **état de l'art structuré en trois sous-parties** : la documentation muséale comme champ spécialisé, les typologies de collections documentaires, et les usages/usagers ;
