@@ -9,9 +9,9 @@
 
 Ce document a été produit dans le cadre d'un devoir académique du Master 2 GIMD. Il s'agit d'une **note de proposition rédigée en situation professionnelle simulée** : je me suis projetée dans le rôle d'**assistante de conservation du patrimoine** au sein des **Archives départementales des Yvelines**, m'adressant à la conservatrice en chef pour lui soumettre un projet d'action de sensibilisation à l'archivage.
 
-L'enjeu : convaincre une autorité hiérarchique de l'utilité d'un dispositif concret de **sensibilisation à l'archivage** auprès de l'ensemble des agents des services versants d'une collectivité territoriale, en mobilisant un cadre légal solide et en proposant des outils opérationnels innovants.
+L'enjeu : convaincre une autorité hiérarchique de l'utilité d'un dispositif concret de **sensibilisation à l'archivage** auprès de l'ensemble des agents des services versants d'une collectivité territoriale, en mobilisant un cadre légal et en proposant des outils opérationnels innovants.
 
-La note s'articule autour de **quatre parties** : un état des constats, les propositions d'action (guide pratique + quiz d'auto-évaluation + fiches réflexes A5 + challenge inter-services), deux cas pratiques (un sur la communicabilité, un sur l'archivage électronique), et les modalités de mise en œuvre.
+La note s'articule autour de **quatre parties** : un état des constats, les propositions d'action (guide pratique, quiz d'auto-évaluation, fiches réflexes A5 et challenge inter-services), deux cas pratiques (un sur la communicabilité et un sur l'archivage électronique), et les modalités de mise en œuvre.
 
 ---
 
@@ -64,17 +64,17 @@ C'est précisément ce type d'écrit professionnel qu'un·e Chargé·e d'Études
 
 ### Ce que ce travail m'a appris
 
-La principale difficulté n'a pas été le contenu juridique — relativement accessible une fois les textes lus — mais le **ton institutionnel**. Adopter la posture d'une assistante de conservation s'adressant à une conservatrice en chef demande une certaine retenue : proposer sans imposer, suggérer sans s'effacer, démontrer sans donner de leçons. C'est un équilibre que j'ai dû travailler.
+La principale difficulté n'a pas été le contenu juridique — relativement accessible une fois les textes lus — mais le **ton institutionnel**. Adopter la posture d'une assistante de conservation s'adressant à une conservatrice en chef demande une certaine retenue : proposer sans imposer, suggérer sans s'effacer. C'est un équilibre que j'ai dû travailler.
 
-L'**articulation entre cadre légal et dispositif pédagogique** a été l'autre axe de réflexion central. Comment transformer l'article L213-2 du Code du patrimoine — austère et technique — en un **tableau accessible aux agents** d'un service d'urbanisme ou d'un service de documentation ? J'ai compris que la valeur ajoutée du documentaliste-archiviste ne réside pas seulement dans la **connaissance du droit**, mais dans sa capacité à **traduire** ce droit en pratiques quotidiennes appropriables.
+L'**articulation entre cadre légal et dispositif pédagogique** a été l'autre axe de réflexion central. Comment transformer l'article L213-2 du Code du patrimoine en un **tableau accessible aux agents** d'un service d'urbanisme ou d'un service de documentation ? J'ai compris que la valeur ajoutée du documentaliste ou de l'archiviste ne réside pas seulement dans la **connaissance du droit**, mais dans sa capacité à **traduire** ce droit en pratiques quotidiennes appropriables.
 
-Les **deux cas pratiques** (permis de construire / dossiers numériques d'un musée départemental) m'ont permis de **mobiliser indirectement mon expérience professionnelle** au Musée Maurice Denis et au Musée d'Orsay. Sans le formuler explicitement dans la note, j'ai puisé dans ce que j'avais observé sur le terrain : la fragilité des dossiers conservés sur des postes individuels sans nommage normalisé, l'obsolescence logicielle, l'absence de métadonnées. Cela m'a fait prendre conscience qu'**un travail académique peut être nourri du terrain**, et inversement.
+Les **deux cas pratiques** (permis de construire / dossiers numériques d'un musée départemental) m'ont permis de **mobiliser indirectement mon expérience professionnelle** au Musée départemental Maurice Denis et au Musée d'Orsay, ainsi que mes recherches de **mon mémoire de Master 1**. Sans le formuler explicitement dans la note, j'ai puisé dans ce que j'avais lu et observé : la fragilité des dossiers conservés sur des postes individuels sans nommage normalisé, l'obsolescence logicielle, l'absence de métadonnées. Cela m'a fait prendre conscience qu'**un travail académique peut être également nourri du terrain**, et inversement.
 
 ### Ce qui s'est bien passé / ce que j'aurais pu faire autrement
 
 La **logique du plan en quatre temps** (Constats → Propositions → Cas pratiques → Modalités) m'a paru efficace : elle conduit pas à pas le lecteur de l'identification du problème à la mise en œuvre concrète, en passant par l'illustration. La **dimension gamifiée** (quiz, fiches A5, challenge inter-services) a apporté de l'originalité à une note qui aurait pu rester très classique.
 
-Avec le recul, j'aurais pu **renforcer la dimension chiffrée** de mon état des lieux. Mentionner par exemple le coût du stockage saturé, ou un retour d'expérience d'une collectivité comparable ayant mené une action similaire, aurait donné encore plus de poids à la proposition. C'est typiquement le genre de **données institutionnelles** qu'un·e CHED apprend à mobiliser pour étayer ses arguments.
+Avec le recul, j'aurais pu **renforcer la dimension chiffrée** de mon état des lieux. Mentionner par exemple le coût du stockage saturé, ou un retour d'expérience d'une collectivité comparable ayant mené une action similaire, aurait donné encore plus de poids à la proposition. C'est typiquement le genre de **données institutionnelles** qu'une CHED ou une ATCPB apprend à mobiliser pour étayer ses arguments.
 
 J'aurais également pu **prévoir une variante allégée** du dispositif pour les très petites collectivités, où il n'existe pas toujours de référent archivage dans chaque service.
 
