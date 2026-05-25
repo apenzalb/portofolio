@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Contexte de production
+## Contexte de production
 
 Ce mémoire professionnel de fin de Master 2 GIMD, en cours de rédaction, est intitulé :
 
