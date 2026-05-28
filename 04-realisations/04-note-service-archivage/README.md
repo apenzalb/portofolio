@@ -7,7 +7,7 @@
 
 ## Contexte de production
 
-Ce document a été produit dans le cadre d'un devoir académique du Master 2 GIMD. Il s'agit d'une **note de proposition rédigée en situation professionnelle simulée** : je me suis projetée dans le rôle d'**assistante de conservation du patrimoine** au sein des **Archives départementales des Yvelines**, m'adressant à la conservatrice en chef pour lui soumettre un projet d'action de sensibilisation à l'archivage.
+Ce document a été produit dans le cadre d'un devoir académique du Master 2 GIMD. Il s'agit d'une **note de proposition rédigée en situation professionnelle simulée** : je me suis projetée dans le rôle d'**assistante territorial de conservation du patrimoine** au sein des **Archives départementales des Yvelines**, m'adressant à la conservatrice en chef pour lui soumettre un projet d'action de sensibilisation à l'archivage.
 
 L'enjeu : convaincre une autorité hiérarchique de l'utilité d'un dispositif concret de **sensibilisation à l'archivage** auprès de l'ensemble des agents des services versants d'une collectivité territoriale, en mobilisant un cadre légal et en proposant des outils opérationnels innovants.
 
