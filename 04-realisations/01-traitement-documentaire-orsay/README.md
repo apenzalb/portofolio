@@ -25,7 +25,7 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 <img src="./chantier-02-pucage-rfid.jpeg" alt="Vue d'ensemble" width="600" />
 
-*Étape du puçage RFID en vue du transfert vers la réserve BnF.*
+*Étape du puçage RFID en vue du transfert vers une réserve de la BnF.*
 
 ### Dépouillement du catalogue d'accrochage architecture 2014
 
