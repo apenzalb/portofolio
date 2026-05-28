@@ -27,7 +27,7 @@ des structures archivistiques territoriales ](./Rapport_Mars_2026.pdf)**
 
 ---
 
-## 🛠️ Compétences mobilisées
+## Compétences mobilisées
 
 ### Savoirs
 
