@@ -27,7 +27,7 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 *Étape du puçage RFID en vue du transfert vers une réserve de la BnF.*
 
-### Dépouillement du catalogue d'accrochage architecture 2014
+### Dépouillement du catalogue *Un Américain à Paris : dessins d'architecture de la donation Neil Levine* (accrochage architecture, 2014)
 
 *[Photographies à insérer si disponibles — ou mention que le dépouillement est en cours et ne peut pas être documenté visuellement à ce jour]*
 
