@@ -16,9 +16,9 @@ Le choix de *Frankenstein* n'était pas anodin : œuvre canonique du XIXᵉ siè
 
 ---
 
-## 📂 Document authentique
+## Document authentique
 
-📄 **[Devoir Données et transition bibliographique — Frankenstein / IFLA-LRM](./devoir_IFLA_LRM_frankenstein.pdf)** 
+**[Devoir Données et transition bibliographique — Frankenstein / IFLA-LRM](./devoir_IFLA_LRM_frankenstein.pdf)** 
 
 Le devoir comprend :
 - Un tableau de **7 notices repérées dans le Sudoc** avec leurs identifiants pérennes (PPN) ;
