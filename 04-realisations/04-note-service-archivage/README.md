@@ -13,6 +13,8 @@ L'enjeu : convaincre une autorité hiérarchique de l'utilité d'un dispositif c
 
 La note s'articule autour de **quatre parties** : un état des constats, les propositions d'action (guide pratique, quiz d'auto-évaluation, fiches réflexes A5 et challenge inter-services), deux cas pratiques (un sur la communicabilité et un sur l'archivage électronique), et les modalités de mise en œuvre.
 
+*(note finale : 16/20)*
+
 ---
 
 ## Document authentique
