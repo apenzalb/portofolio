@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Contexte de production
+## Contexte de production
 
 Mon alternance au sein du Service de la documentation du Musée d'Orsay (depuis septembre 2025) s'inscrit dans un moment particulier de la vie du service : la préparation du déménagement des fonds documentaires vers le futur **Centre de ressources et de recherche Daniel Marchesseau**. Dans ce contexte, j'ai choisis deux activités documentaires complémentaires qui structurent mon quotidien :
 
@@ -15,7 +15,7 @@ Mon alternance au sein du Service de la documentation du Musée d'Orsay (depuis 
 Ces deux activités, en apparence très différentes, sont les deux faces d'un même métier : **l'une intellectuelle, l'autre matérielle**, et toutes deux indispensables à la mission de conservation et de transmission documentaire.
 
 ---
-## 📂 Documents authentiques
+## Documents authentiques
 
 ### Chantier de reconditionnement — Fonds Peinture étrangère
 
@@ -33,7 +33,7 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 ---
 
-## 🛠️ Compétences mobilisées
+## Compétences mobilisées
 
 ### Savoirs
 
@@ -62,7 +62,7 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 ---
 
-## 🔍 Analyse réflexive
+## Analyse réflexive
 
 ### Pourquoi ces documents sont significatifs
 
