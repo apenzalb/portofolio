@@ -16,6 +16,7 @@ Le rapport s'organise autour de **trois axes d'analyse** : les outils et formats
 
 Le document final a pris la forme d'un **rapport d'analyse mis en page selon la charte graphique de FranceArchives** (rapport n°312, dépôt légal mars 2026), comprenant 5 pages de texte + 5 annexes méthodologiques (grilles d'entretien et d'observation, transcription d'entretien).
 
+*(note finale : 14/20)*
 ---
 
 ## Document authentique
