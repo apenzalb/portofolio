@@ -10,7 +10,7 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 
 > *Cœur du métier de documentaliste-archiviste : décrire, classer, indexer et rendre accessibles les ressources documentaires et archivistiques.*
 
-### 📚 Savoirs
+### Savoirs
 
 - Modèles bibliographiques (IFLA-LRM)
 - Normes de description archivistique (ISAD(G), quelques notions)
@@ -19,7 +19,7 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 - Vocabulaires contrôlés et langages documentaires
 - Standards d'indexation muséale (Joconde, POP)
 
-### 🛠️ Savoir-faire
+### Savoir-faire
 
 - Réaliser le récolement d'un fonds documentaire ou d'une collection
 - Cataloguer et indexer des notices bibliographiques selon les normes
@@ -28,17 +28,17 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 - Trier, classer et reconditionner 
 - Mettre à jour des notices dans un SIGB
 
-### 🤝 Savoir-être
+### Savoir-être
 
 - Rigueur méthodologique
 - Sens du détail
 - Patience et constance dans un travail de longue haleine
 
-### 🔗 Réalisations associées
+### Réalisations associées
 
 - [Traitement documentaire (Musée d'Orsay)](../04-realisations/01-traitement-documentaire-orsay/)
 - [Notices bibliographiques Frankenstein — Modèle IFLA-LRM](../04-realisations/02-frankenstein-ifla-lrm/)
-- [Indexation d'œuvres — Musée départemental Maurice Denis (export Joconde)](../04-realisations/07-indexation-musee-maurice-denis/)
+- [Indexation d'œuvres — Musée départemental Maurice Denis](../04-realisations/07-indexation-musee-maurice-denis/)
 
 ---
 
@@ -46,7 +46,7 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 
 > *Préserver et organiser les fonds documentaires et les collections muséales dans le respect des normes professionnelles.*
 
-### 📚 Savoirs
+### Savoirs
 
 - Principes de conservation préventive
 - Normes de manipulation des documents patrimoniaux
@@ -54,7 +54,7 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 - Articulation entre archives, bibliothèque et documentation muséale
 - Logique des chantiers de déménagement de fonds documentaires
 
-### 🛠️ Savoir-faire
+### Savoir-faire
 
 - Participer à un chantier documentaire (déménagement, récolement, reconditionnement)
 - Évaluer l'état matériel d'un fonds et proposer des solutions de conservation
@@ -62,15 +62,15 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 - Réorganiser un service d'archives selon des critères clairs et durables
 - Gérer le quotidien d'une bibliothèque muséale (acquisitions, enregistrement, rangement)
 
-### 🤝 Savoir-être
+### Savoir-être
 
 - Sens de l'organisation
 - Adaptabilité aux contraintes matérielles et logistiques
 - Capacité à travailler en équipe sur des projets de longue durée
 
-### 🔗 Réalisations associées
+### Réalisations associées
 
-- [Mémoire M2 — Le déménagement du service de la documentation du Musée d'Orsay](../04-realisations/05-memoire-m2/)
+- [Mémoire M2](../04-realisations/05-memoire-m2/)
 - [Note de service — Sensibilisation à l'archivage](../04-realisations/04-note-service-archivage/)
 
 ---
@@ -79,14 +79,14 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 
 > *Faire vivre les collections en accompagnant les usagers et en concevant des dispositifs de valorisation et de médiation documentaire.*
 
-### 📚 Savoirs
+### Savoirs
 
 - Typologie des publics de la documentation patrimoniale (chercheurs, étudiants, grand public)
 - Théorie de la médiation documentaire et culturelle
 - Politique de communication institutionnelle des établissements patrimoniaux
 - Histoire et organisation des Archives nationales et des grandes institutions documentaires
 
-### 🛠️ Savoir-faire
+### Savoir-faire
 
 - Accueillir et orienter des chercheurs dans leurs démarches de consultation
 - Concevoir un dispositif de médiation à destination d'un public spécifique
@@ -94,13 +94,13 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 - Médiation orale d'œuvres en plusieurs langues (français, espagnol, anglais)
 - Rédiger une note de service à visée pédagogique pour un public interne
 
-### 🤝 Savoir-être
+### Savoir-être
 
 - Sens du service public et de l'accueil
 - Pédagogie
 - Aisance relationnelle et communication multilingue
 
-### 🔗 Réalisations associées
+### Réalisations associées
 
 - [Projet de groupe — Médiation documentaire aux Archives nationales](../04-realisations/03-mediation-archives-nationales/)
 - [Note de service — Sensibilisation à l'archivage](../04-realisations/04-note-service-archivage/)
@@ -111,14 +111,14 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 
 > *Maîtriser les outils techniques métiers et les compétences transverses indispensables à l'exercice professionnel.*
 
-### 📚 Savoirs
+### Savoirs
 
 - Fonctionnement des SIGB (Système Intégré de Gestion de Bibliothèque) et SIGM (Système Intégré de Gestion Muséale)
 - Bases du web sémantique appliquées au patrimoine
 - Méthodologie de recherche documentaire et de veille
 - Méthodologie de rédaction scientifique (mémoire)
 
-### 🛠️ Savoir-faire
+### Savoir-faire
 
 - **Maîtrise** : Skinsoft (SIGM), Skinlibris, Suite Office (notamment Excel)
 - **Notions** : CollectiveAccess, FileMaker, Photoshop
@@ -126,17 +126,17 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 - Rédiger un mémoire universitaire de recherche
 - Mener un projet documentaire en équipe
 
-### 🤝 Savoir-être
+### Savoir-être
 
 - Curiosité intellectuelle
 - Autonomie dans la conduite d'un projet
 - Capacité d'adaptation aux outils numériques évolutifs
 
-### 🔗 Réalisations associées
+### Réalisations associées
 
 - [Mémoire M1](../04-realisations/06-memoire-m1/)
-- [Mémoire M2 — Le déménagement du service de la documentation du Musée d'Orsay](../04-realisations/05-memoire-m2/)
-- [Indexation d'œuvres — Musée Maurice Denis (Skinsoft → Joconde)](../04-realisations/07-indexation-musee-maurice-denis/)
+- [Mémoire M2](../04-realisations/05-memoire-m2/)
+- [Indexation d'œuvres — Musée départemental Maurice Denis](../04-realisations/07-indexation-musee-maurice-denis/)
 
 ---
 
