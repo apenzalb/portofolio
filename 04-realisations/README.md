@@ -4,7 +4,7 @@ Sélection de documents authentiques témoignant de mes activités académiques 
 
 ## Sommaire
 
-1. [Traitement documentaire (Musée d'Orsay)](./01-traitement-documentaire_orsay/)
+1. [Traitement documentaire (Musée d'Orsay)](./01-traitement-documentaire-orsay/)
 2. [Notices bibliographiques Frankenstein — Modèle IFLA-LRM](./02-frankenstein-ifla-lrm/)
 3. [Médiation documentaire aux Archives nationales](./03-mediation-archives-nationales/)
 4. [Note de service — Sensibilisation à l'archivage](./04-note-service-archivage/)
