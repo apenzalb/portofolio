@@ -72,4 +72,4 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 ### Pourquoi ces documents sont significatifs
 
-Ces deux activités sont, à mon sens, **représentatives du métier de documentaliste en milieu muséal patrimonial** : elles articulent un travail intellectuel rigoureux (recherche, identification, enrichissement de dossiers d'œuvre) avec un travail matériel concret (manipulation, conditionnement, transfert physique des fonds). Aucune des deu
+Ces deux activités sont, à mon sens, **représentatives du métier de documentaliste en milieu muséal patrimonial** : elles articulent un travail intellectuel rigoureux (recherche, identification, enrichissement de dossiers d'œuvre) avec un travail matériel concret (manipulation, conditionnement, transfert physique des fonds). 
