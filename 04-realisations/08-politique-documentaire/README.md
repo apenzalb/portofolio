@@ -8,7 +8,7 @@
 
 ## Contexte de production
 
-Ce travail a été réalisé en binôme dans le cadre du cours de politique documentaire du Master 2 GIMD. Il consistait à produire une politique documentaire complète et opérationnelle pour le Learning Center de Montpellier Business School (MBS), établissement d'enseignement supérieur privé fondé en 1897.
+Ce travail a été réalisé en binôme dans le cadre du cours de politique documentaire du Master 2 GIMD. Il consistait à produire une politique documentaire complète et opérationnelle pour le Learning Center de Montpellier Business School (MBS), établissement d'enseignement supérieur privé.
 
 Le Learning Center de MBS est une sous-entité de la Direction support à l'innovation et à la transformation. Il assure trois grandes missions : gérer les ressources documentaires, former les publics aux compétences informationnelles, et contribuer à la digitalisation des enseignements. Son équipe comprend une bibliothécaire, deux chargées de ressources et formations documentaires, et trois ingénieures pédagogiques.
 
