@@ -23,13 +23,15 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 *Boîtes Cochard (boîtes grises) après dédoublement des anciennes boîtes (boîtes marrons) surremplies, les post-it bleus représentent les monographies.*
 
-<img src="./chantier-02-pucage-rfid.jpeg" alt="Vue d'ensemble" width="600" />
+<img src="./chantier-02-pucage-rfid.jpeg" alt="Vue de près" width="600" />
 
 *Étape du puçage RFID en vue du transfert vers une réserve de la BnF.*
 
 ### Dépouillement du catalogue *Un Américain à Paris : dessins d'architecture de la donation Neil Levine* (accrochage architecture, 2014)
 
-*[Photographies à insérer si disponibles — ou mention que le dépouillement est en cours et ne peut pas être documenté visuellement à ce jour]*
+<img src="./IMG_0943.jpeg" alt="Vue d'ensemble" width="600" />
+
+<img src="./IMG_0944.jpeg" alt="Vue d'ensemble" width="600" />
 
 ---
 
