@@ -15,6 +15,7 @@ Le mémoire repose sur une démarche documentaire qualitative : revue de littér
 📄 **[Mémoire de Master 1 GIMD — Université Paul-Valéry Montpellier 3](./memoire_m1_penza.pdf)** 
 
 > Titre : *La transition numérique dans les musées : acteurs, enjeux et outils pour la préservation des collections*
+>
 > Alexia Penza — Direction : M. Trzmielewski — Année 2024-2025
 
 Le mémoire est structuré en trois parties :
