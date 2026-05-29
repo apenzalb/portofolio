@@ -10,4 +10,4 @@ Sélection de documents authentiques témoignant de mes activités académiques 
 4. [Note de service — Sensibilisation à l'archivage](./04-note-service-archivage/)
 5. [Mémoire M2 ](./05-memoire-m2/)
 6. [Mémoire M1](./06-memoire-m1/)
-7. [Indexation d'un corpus d'oeuvres (Musée départemental Maurice Denis](./07-indexation-maurice-denis/)
+7. [Indexation d'un corpus d'oeuvres (Musée départemental Maurice Denis)](./07-indexation-maurice-denis/)
