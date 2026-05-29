@@ -31,7 +31,7 @@ Ces deux activités, en apparence très différentes, sont les deux faces d'un m
 
 <img src="./IMG_0943.jpeg" alt="Vue d'ensemble" width="600" />
 
-*Première étape du dépouillement (pour insertion dans un dossier d'oeuvre) : reconnaissance d'une oeuvre des collections du musée dans le catalogue ; Découpage de la page ; Annotation du numéro d'inventaire (et dans ce cas particulier annotation de l'ancien numéro de dépot pour motif de meilleur reconnaissance) ; Création et impression d'une étiquette avec nom de l'exposition/accrochage, commissaires, lieu, date, cote du livre dans la bibliothèque du musée ; Tamponnage "M'O Documentation"*
+*Première étape du dépouillement (pour insertion dans un dossier d'oeuvre) : reconnaissance d'une oeuvre des collections du musée dans le catalogue ; Découpage de la page ; Annotation du numéro d'inventaire (et dans ce cas particulier annotation de l'ancien numéro de dépot) ; Création et impression d'une étiquette avec nom de l'exposition/accrochage, commissaires, lieu, date, cote du livre dans la bibliothèque du musée ; Tamponnage "M'O Documentation"*
 
 <img src="./IMG_0944.jpeg" alt="Vue d'ensemble" width="600" />
 
