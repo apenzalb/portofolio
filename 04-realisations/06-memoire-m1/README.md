@@ -12,9 +12,9 @@ Le mémoire repose sur une démarche documentaire qualitative : revue de littér
 
 ## Document authentique
 
-> **Mémoire de Master 1 GIMD — Université Paul-Valéry Montpellier 3**
 > *La transition numérique dans les musées : acteurs, enjeux et outils pour la préservation des collections*
 > Alexia Penza — Direction : M. Trzmielewski — Année 2024-2025
+> 📄 **[Mémoire de Master 1 GIMD — Université Paul-Valéry Montpellier 3](./memoire_m1_penza.pdf)** 
 
 Le mémoire est structuré en trois parties :
 1. **Les normes et référentiels en préservation numérique** — analyse des cadres OAIS, FAIR, CIDOC CRM, ISO 16363, ISO 15489, et des acteurs impliqués dans leur définition et mise en œuvre
