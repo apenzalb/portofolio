@@ -8,7 +8,7 @@ Chaque domaine décline trois types de compétences (savoirs, savoir-faire, savo
 
 ## 1. Traitement documentaire et archivistique
 
-> *Cœur du métier de documentaliste-archiviste : décrire, classer, indexer et rendre accessibles les ressources documentaires et archivistiques.*
+> *Cœur du métier de documentaliste : décrire, classer, indexer et rendre accessibles les ressources documentaires et archivistiques.*
 
 ### Savoirs
 
