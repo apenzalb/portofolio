@@ -1,4 +1,4 @@
-# Activités documentaires au Musée d'Orsay
+# Traitement documentaire au Musée d'Orsay
 
 *Apprentissage — Service de la documentation, Musée d'Orsay*  
 *Septembre 2025 – en cours*
