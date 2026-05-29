@@ -6,8 +6,6 @@
 
 **Documentaliste — Préparation des concours CHED (2026) et ATCP (2027)**
 
-📍 151 rue Paul Doumer, 78510 Triel-sur-Seine  
-📞 07 68 36 13 00  
 ✉️ [a.penza.albarado@outlook.com](mailto:a.penza.albarado@outlook.com)  
 💼 [linkedin.com/in/alexia-penza](https://www.linkedin.com/in/alexia-penza/)
 
