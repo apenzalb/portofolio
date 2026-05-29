@@ -2,9 +2,9 @@
 
 ## Contexte de production
 
-Ce mémoire de recherche a été réalisé dans le cadre du Master 1 GIMD (Gestion de l'Information et Médiation Documentaire) à l'Université Paul-Valéry Montpellier 3, sous la direction de Monsieur Trzmielewski, pour l'année universitaire 2024-2025.
+Ce mémoire de recherche a été réalisé dans le cadre du Master 1 GIMD à l'Université Paul-Valéry Montpellier 3, sous la direction de Monsieur Trzmielewski, pour l'année universitaire 2024-2025.
 
-Il s'inscrit dans un moment charnière de mon parcours : celui d'une réorientation assumée depuis la licence d'Histoire de l'Art et Archéologie vers les sciences de l'information, avec la volonté de construire une approche véritablement pluridisciplinaire, à la croisée du patrimoine culturel et de la documentation numérique. Le sujet choisi — la transition numérique dans les musées — reflète directement cette double appartenance intellectuelle.
+Il s'inscrit dans mon double parcours en licence d'Histoire de l'Art et Archéologie et mon master, avec la volonté de construire une approche véritablement pluridisciplinaire, à la croisée du patrimoine culturel et de la documentation numérique. Le sujet choisi — la transition numérique dans les musées — reflète directement cette double appartenance intellectuelle.
 
 Le mémoire repose sur une démarche documentaire qualitative : revue de littérature scientifique, analyse de textes normatifs et législatifs, étude de cas institutionnels (BnF, RMN-Grand Palais, Europeana, Museo Reina Sofía, Rijksmuseum, Smithsonian Institution). Aucun entretien ni questionnaire n'a été mené, ce qui correspond à une approche critique et analytique cohérente avec le stade M1.
 
