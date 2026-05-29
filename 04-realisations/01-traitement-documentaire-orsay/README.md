@@ -76,6 +76,6 @@ Ces deux activités sont, à mon sens, **représentatives du métier de document
 
 ### Ce que les activités m'ont appris
 
-Le **dépouillement du catalogue de l'accrochage** a été particulièrement formateur car il m'a confrontée à une difficulté concrète : ce dépouillement n'avait jamais été réaliséen raison d'incohérences entre les anciens numéros de dépôt, d'autres numéros de dépôts attribués à postérioris et les numéros d'inventaire. En reconstituant la correspondance entre ces deux systèmes de cotation pour les oeuvres de Villain (fonds Levine), j'ai compris que **la documentation muséale est aussi un travail de recherche** : chaque numéros raconte une histoire sur l'oeuvre et son entrée au musée (acquisiton, dépôt, transfert), sur les personnes qui y travail dessus.
+Le **dépouillement du catalogue de l'accrochage** a été particulièrement formateur car il m'a confrontée à une difficulté concrète : ce dépouillement n'avait jamais été réaliséen raison d'incohérences entre les anciens numéros de dépôt, d'autres numéros de dépôts attribués à postérioris et les numéros d'inventaire. En reconstituant la correspondance entre ces deux systèmes de cotation pour les oeuvres de Villain (fonds Levine), j'ai compris que chaque numéros raconte une histoire sur l'oeuvre et son entrée au musée (acquisiton, dépôt, transfert), sur les personnes qui y travail dessus.
 
 Le **chantier de reconditionnement** m'a appris 
