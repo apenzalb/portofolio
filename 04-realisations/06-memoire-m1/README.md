@@ -57,9 +57,9 @@ Le mémoire compte environ 57 pages de développement, accompagnées d'une bibli
 
 ### Pourquoi ce document est significatif
 
-Ce mémoire représente le premier travail de recherche long et autonome de mon parcours en sciences de l'information. Il marque la consolidation d'une réorientation disciplinaire : venant d'une formation en Histoire de l'Art et Archéologie, j'y mobilise pour la première fois un corpus théorique propre aux sciences de l'information (OAIS, FAIR, CIDOC CRM) tout en le connectant à ma culture patrimoniale et muséale préexistante.
+Ce mémoire représente le premier travail de recherche long et autonome de mon parcours en sciences de l'information. J'y mobilise pour la première fois un corpus théorique propre aux sciences de l'information (OAIS, FAIR, CIDOC CRM) tout en le connectant à ma culture patrimoniale et muséale.
 
-Le sujet choisi — la transition numérique dans les musées — n'est pas anodin. Il anticipe directement les problématiques que j'allais rencontrer lors de mon alternance au Musée d'Orsay (gestion documentaire, outils de catalogage, interopérabilité des données) et lors de mon stage au Musée Maurice Denis (CollectiveAccess, Joconde). Ce mémoire a donc fonctionné comme une carte intellectuelle du champ dans lequel j'allais ensuite exercer.
+Le sujet choisi — la transition numérique dans les musées — n'est pas anodin. Il anticipe directement les problématiques que j'allais rencontrer lors de mon stage au Musée Maurice Denis. Ce mémoire a donc fonctionné comme une carte intellectuelle du champ dans lequel j'allais ensuite exercer.
 
 ### Ce que j'ai appris
 
@@ -71,19 +71,17 @@ Enfin, ce mémoire m'a initiée à une réflexion éthique sur le numérique pat
 
 ### Ce qui s'est bien passé — et ce que j'aurais pu faire autrement
 
-**Points forts.** La structuration du mémoire en trois parties articulées (normes → outils → innovations) offre une progression logique et cohérente. Le tableau comparatif des solutions logicielles et la carte mentale des acteurs constituent des outils de synthèse efficaces qui ont valeur documentaire en eux-mêmes. La bibliographie est large, organisée et mobilise des sources en plusieurs langues (français, anglais, espagnol).
+**Points forts.** La structuration du mémoire en trois parties articulées (normes → outils → innovations) offre une progression logique et cohérente. Le tableau comparatif des solutions logicielles et la carte mentale des acteurs constituent des outils de synthèse qui ont valeur documentaire en eux-mêmes. La bibliographie est large, organisée et mobilise des sources en plusieurs langues (français, anglais, espagnol).
 
-**Limites identifiées avec le recul.** Le choix de ne pas mener d'entretiens, cohérent en M1, a laissé la réflexion dans un registre essentiellement théorique et descriptif. La partie sur les institutions se concentre sur de grandes structures (BnF, Europeana, Reina Sofía) dont les ressources sont difficilement transposables aux musées de taille modeste — pourtant au cœur de ma pratique professionnelle actuelle. Une entrée par des institutions de taille intermédiaire, comme le Musée Maurice Denis ou d'autres musées départementaux, aurait enrichi l'analyse de terrain.
+**Limites identifiées avec le recul.** Le choix de ne pas mener d'entretiens, cohérent en M1, a laissé la réflexion dans un registre essentiellement théorique et descriptif. La partie sur les institutions se concentre sur de grandes structures (BnF, Europeana, Reina Sofía) dont les ressources sont difficilement transposables aux musées de taille modeste. Une entrée par des institutions de taille intermédiaire, comme le musée départemental Maurice Denis ou d'autres musées départementaux, aurait enrichi l'analyse de terrain.
 
 Par ailleurs, la troisième partie sur les innovations (IA, blockchain, cloud) reste prospective et quelque peu déconnectée des deux premières. En M2, j'aurais traité ces technologies non comme des objets d'exploration en soi, mais comme des réponses — partielles et problématiques — aux limites identifiées dans les parties 1 et 2.
 
 ### Mise en perspective
 
-Ce mémoire de M1 constitue le socle théorique sur lequel s'appuient mes travaux ultérieurs. Mon mémoire de M2, consacré au déménagement du centre de documentation du Musée d'Orsay vers le CRR Marchesseau, prolonge directement plusieurs des problématiques soulevées ici : gouvernance documentaire en période de transition, gestion des outils de catalogage (MuseumPlus), enjeux de la préservation et de la continuité d'accès aux fonds en contexte de restructuration institutionnelle.
+La réalisation 07 de ce portfolio (indexation et catalogage au Musée Maurice Denis avec CollectiveAccess et la base Joconde) témoigne d'une mise en pratique directe des apprentissages de ce mémoire : les questions d'interopérabilité, de vocabulaires contrôlés et de structuration des métadonnées que j'avais étudiées de façon théorique, je les ai ensuite manipulées concrètement dans un contexte professionnel réel.
 
-La réalisation 07 de ce portfolio (indexation et catalogage au Musée Maurice Denis avec CollectiveAccess et la base Joconde) témoigne également d'une mise en pratique directe des apprentissages de ce mémoire : les questions d'interopérabilité, de vocabulaires contrôlés et de structuration des métadonnées que j'avais étudiées de façon théorique, je les ai ensuite manipulées concrètement dans un contexte professionnel réel.
-
-Enfin, dans la perspective de la préparation au concours CHED, ce mémoire a posé les bases d'une culture normative (OAIS, FAIR, CIDOC CRM, législation sur le droit d'auteur) indispensable à l'exercice du métier de chargée d'études documentaires en institution patrimoniale.
+Enfin, dans la perspective de la préparation aux concours, ce mémoire a posé les bases d'une culture normative (OAIS, FAIR, CIDOC CRM, législation sur le droit d'auteur) indispensable à l'exercice du métier de chargée d'études documentaires en institution patrimoniale.
 
 ---
 
