@@ -63,7 +63,7 @@ Le sujet choisi — la transition numérique dans les musées — n'est pas anod
 
 ### Ce que j'ai appris
 
-La rédaction de ce mémoire m'a permis d'acquérir une maîtrise conceptuelle des grands référentiels normatifs de la préservation numérique que je n'avais pas en entrant en M1. Comprendre le modèle OAIS dans sa structure (SIP, AIP, DIP), saisir la distinction entre les principes FAIR et les normes ISO, appréhender le CIDOC CRM comme ontologie sémantique : ces apprentissages ont directement nourri ma pratique documentaire professionnelle par la suite.
+La rédaction de ce mémoire m'a permis d'acquérir une maîtrise conceptuelle des grands référentiels normatifs de la préservation numérique que je n'avais pas en entrant en M1. Comprendre le modèle OAIS dans sa structure (SIP, AIP, DIP), saisir la distinction entre les principes FAIR et les normes ISO, appréhender le CIDOC CRM comme ontologie sémantique : ces apprentissages ont directement nourri ma pratique documentaire professionnelle.
 
 Sur le plan méthodologique, j'ai appris à construire une problématique à partir d'un constat de tension — ici, la tension entre exigences normatives et capacités réelles des institutions — et à l'articuler en trois parties progressives. J'ai également acquis des réflexes de rigueur bibliographique : organisation thématique des sources, distinction entre articles scientifiques, rapports institutionnels et textes normatifs.
 
