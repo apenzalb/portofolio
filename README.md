@@ -40,7 +40,7 @@ Apprentie documentaliste au **Musée d'Orsay** (Direction de la Conservation et 
 5. [Mémoire M2 — Le déménagement du centre de documentation du Musée d'Orsay](./04-realisations/05-memoire-m2/)
 6. [Mémoire M1](./04-realisations/06-memoire-m1/)
 7. [Indexation et catalogage — Musée départemental Maurice Denis](./04-realisations/07-indexation-musee-maurice-denis/)
-8. [Politique documentaire -](./04-realisations/08-politique-documentaire/)
+8. [Politique documentaire - - developpement d'une collection sur l'IA](./04-realisations/08-politique-documentaire/)
 
 ---
 
