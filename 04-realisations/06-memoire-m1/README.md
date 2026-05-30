@@ -25,7 +25,7 @@ Le mémoire est structuré en trois parties :
 
 Le mémoire compte environ 57 pages de développement, accompagnées d'une bibliographie organisée en quatre ensembles thématiques et d'une carte mentale des acteurs de la conservation numérique.
 
-*Note finale : 17/20*
+*Note finale : 18/20*
 
 ---
 
