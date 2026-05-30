@@ -105,9 +105,9 @@ Ces ajustements ne remettent pas en cause la valeur du travail, mais identifient
 
 ### Mise en perspective
 
-La conception d'une politique documentaire est une **compétence centrale du concours CHED**. Les épreuves écrites comme les missions réelles d'une chargée d'études documentaires mobilisent régulièrement ce type de raisonnement : analyser un fonds, proposer une stratégie, justifier des acquisitions, articuler à un cadre institutionnel.
+La conception d'une politique documentaire est une **compétence essentiel dans le métier de documentaliste** : analyser un fonds, proposer une stratégie, justifier des acquisitions, articuler à un cadre institutionnel.
 
-Plus largement, ce devoir m'a permis de **sortir de ma zone de confort patrimoniale** (musées, archives) pour découvrir un autre univers documentaire (bibliothèque d'école de commerce). C'est une diversification importante dans la perspective des concours, qui ne se limitent pas aux seules institutions culturelles : les services documentaires de la fonction publique d'État couvrent une variété d'environnements qu'une candidate doit être capable d'aborder avec souplesse.
+Plus largement, ce devoir m'a permis de **sortir de ma zone de confort patrimoniale** pour découvrir un autre univers documentaire (bibliothèque d'école de commerce). C'est une diversification importante dans la perspective des concours, qui ne se limitent pas aux seules institutions culturelles : les services documentaires de la fonction publique d'État couvrent une variété d'environnements que je dois être en capacité d'aborder avec souplesse.
 
 Enfin, le sujet traité — **l'intelligence artificielle** — restera l'un des grands enjeux de la documentation pour les années à venir, tant comme **objet** (collections sur l'IA) que comme **outil** (IA appliquée à la recherche documentaire, à l'indexation, à la médiation). Avoir mené ce travail m'a donné des repères que je pourrai mobiliser, dans d'autres contextes, tout au long de ma carrière.
 
