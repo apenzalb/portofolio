@@ -11,3 +11,4 @@ Sélection de documents authentiques témoignant de mes activités académiques 
 5. [Mémoire M2 ](./05-memoire-m2/)
 6. [Mémoire M1](./06-memoire-m1/)
 7. [Indexation d'un corpus d'oeuvres (Musée départemental Maurice Denis)](./07-indexation-musee-maurice-denis/)
+8. [Politique documentaire - acquisition](./08-politique-documentaire/)
