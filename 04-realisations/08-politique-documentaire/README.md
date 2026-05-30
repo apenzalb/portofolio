@@ -1,4 +1,4 @@
-# Politique documentaire — Développement stratégique d'une collection « Intelligence artificielle et innovation » pour le Learning Center de MBS School of Business
+# Politique documentaire — Développement d'une collection « Intelligence artificielle et innovation » pour le Learning Center de MBS School of Business
 
 *Master 2 GIMD — Université Paul-Valéry Montpellier 3*  
 *Cours : Politique documentaire*  
