@@ -78,4 +78,23 @@ Ces deux activités sont, à mon sens, **représentatives du métier de document
 
 Le **dépouillement du catalogue de l'accrochage** a été particulièrement formateur car il m'a confrontée à une difficulté concrète : ce dépouillement n'avait jamais été réaliséen raison d'incohérences entre les anciens numéros de dépôt, d'autres numéros de dépôts attribués à postérioris et les numéros d'inventaire. En reconstituant la correspondance entre ces deux systèmes de cotation pour les oeuvres de Villain (fonds Levine), j'ai compris que chaque numéros raconte une histoire sur l'oeuvre et son entrée au musée (acquisiton, dépôt, transfert), sur les personnes qui y travail dessus.
 
-Le **chantier de reconditionnement** m'a appris 
+Le **chantier de reconditionnement** m'a appris à travailler à grande échelle (100 ml de monographies) et à articuler plusieurs gestes techniques : dédoubler les boîtes surremplies, transvaser dans des boîtes Cochard et pucer en RFID. J'ai mesuré combien la **conservation préventive** ne se limite pas à un savoir théorique : elle se joue dans la qualité d'un conditionnement, dans le geste précis qui prolonge la durée de vie d'un document.
+
+### Ce qui s'est bien passé / ce que j'aurais pu faire autrement
+
+Le travail en plusieurs configurations (seule, en binôme avec ma tutrice, en équipe) m'a permis de progresser à mon rythme tout en bénéficiant d'un accompagnement. La résolution du problème de cotation Villain a été un moment de fierté, parce qu'elle a débloqué un dépouillement en attente et mieux faire comprendre le fonds dans son intégralité.
+
+Avec le recul, j'aurais pu **mieux documenter ma propre méthode** de mise en correspondance des numéros. C'est une démarche que j'envisage d'engager dans la suite de mon alternance.
+
+### Mise en perspective
+
+Ces activités s'inscrivent dans une **opération institutionnelle plus large** : la préparation du déménagement du Service de la documentation vers le CRR. C'est précisément cette opération qui constitue le **sujet de mon mémoire de M2**. Vivre ce déménagement « de l'intérieur » et le penser « de l'extérieur » dans ma recherche universitaire crée une articulation entre **terrain et réflexion**, qui nourrit ma compréhension des enjeux du métier.
+
+---
+
+## 🔗 Compétences associées
+
+Voir la grille détaillée dans la section [Domaines de compétences](../../03-competences/) :
+- **Traitement documentaire et archivistique** (dépouillement, gestion des dossiers d'œuvre)
+- **Gestion et conservation des collections** (reconditionnement, puçage RFID, chantier de transfert)
+- **Outils numériques** (résolution de problèmes de cotation, outils de traçabilité)
