@@ -1,7 +1,7 @@
 # Politique documentaire — Développement stratégique d'une collection « Intelligence artificielle et innovation » pour le Learning Center de MBS School of Business
 
 *Master 2 GIMD — Université Paul-Valéry Montpellier 3*  
-*Cours : Politique documentaire (TW342DCM / JW342DCM)*  
+*Cours : Politique documentaire*  
 *Devoir en binôme avec Mélissa Lassouani*
 
 ---
